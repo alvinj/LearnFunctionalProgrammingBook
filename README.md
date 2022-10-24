@@ -19,4 +19,8 @@ The PDF version of the book is available for just $5 here:
 
 - [alvinalexander.gumroad.com/l/learnfp](https://alvinalexander.gumroad.com/l/learnfp)
 
+And if you like book covers, here’s the new cover image:
+
+![Learn Functional Programming Without Fear](./Learn-Functional-Programming-Without-Fear-book.jpg)
+
 
