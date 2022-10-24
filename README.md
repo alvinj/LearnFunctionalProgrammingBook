@@ -6,6 +6,7 @@ This is the repository for my book, “Learn Functional Programming Without Fear
 ## Source code
 
 The “Word Count” source code examples are available in the [WordCount](./WordCount) directory.
+You can run them with [Scala CLI](https://scala-cli.virtuslab.org).
 
 
 ## Issues
