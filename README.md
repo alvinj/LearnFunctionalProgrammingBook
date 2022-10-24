@@ -1,3 +1,3 @@
-# Almost Functional Programming (Book)
+# Learn Functional Programming Without Fear (Book)
 
-This is the repository for my book, “(Almost) Functional Programming.”
+This is the repository for my book, “(Learn Functional Programming Without Fear.”
