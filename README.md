@@ -26,7 +26,7 @@ And if you like book covers, here’s the new cover image:
 
 <div><img 
     src="./Learn-Functional-Programming-Without-Fear-book.jpg"
-    width="700" />
+    width="600" />
 </div>
 
 
