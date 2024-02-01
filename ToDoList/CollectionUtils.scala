@@ -1,4 +1,4 @@
-package todolist
+package com.alvinalexander.utils
 
 object CollectionUtils:
 
@@ -10,4 +10,3 @@ object CollectionUtils:
         else
             val (a, b) = seq.splitAt(index)
             a ++ b.tail
-
