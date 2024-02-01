@@ -1,6 +1,6 @@
-# Learn Functional Programming Without Fear (Book)
+# Learn Functional Programming The Fast Way!
 
-This is the repository for my book, “Learn Functional Programming Without Fear.”
+This is the repository for my book, “Learn Functional Programming The Fast Way!”
 
 
 ## Source code
@@ -14,11 +14,11 @@ You can run them with [Scala CLI](https://scala-cli.virtuslab.org).
 If you find any bugs/issues in the book, please [report them as issues here](https://github.com/alvinj/LearnFunctionalProgrammingBook/issues).
 
 
-## Buy the book ($5)
+## Buy the book
 
-The PDF version of the book is available for just $5 here:
+You can buy the paperback, Kindle, and PDF versions of the book here:
 
-- [alvinalexander.gumroad.com/l/learnfp](https://alvinalexander.gumroad.com/l/learnfp)
+- [https://alvinalexander.com/scala/learn-functional-programming-book/](Learn Functional Programming The Fast Way!)
 
 
 ## Book cover
@@ -26,7 +26,7 @@ The PDF version of the book is available for just $5 here:
 And if you like book covers, here’s the new cover image:
 
 <div><img 
-    src="./Learn-Functional-Programming-Without-Fear-book.jpg"
+    src="./LearnFPFast-FrontCover-small.jpg"
     width="600" />
 </div>
 
