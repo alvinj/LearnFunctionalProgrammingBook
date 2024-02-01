@@ -18,7 +18,7 @@ If you find any bugs/issues in the book, please [report them as issues here](htt
 
 You can buy the paperback, Kindle, and PDF versions of the book here:
 
-- [https://alvinalexander.com/scala/learn-functional-programming-book/](Learn Functional Programming The Fast Way!)
+- [Learn Functional Programming The Fast Way!](https://alvinalexander.com/scala/learn-functional-programming-book/)
 
 
 ## Book cover
