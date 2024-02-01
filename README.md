@@ -5,8 +5,9 @@ This is the repository for my book, “Learn Functional Programming The Fast Way
 
 ## Source code
 
-The “Word Count” source code examples are available in the [WordCount](./WordCount) directory.
-You can run them with [Scala CLI](https://scala-cli.virtuslab.org).
+- The “Word Count” source code examples are in the [WordCount](./WordCount) directory.
+- The “To-Do List” source code examples are in the [ToDoList](./ToDoList) directory.
+- The “ZIO” source code examples are in the [ZIO](./ZIO) directory.
 
 
 ## Issues
